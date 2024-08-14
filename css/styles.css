@@ -337,8 +337,17 @@ th {
   border-width: 0;
 }
 
-label {
+label{
   display: inline-block;
+color: #000;
+}
+
+ .indicates-required {
+color: #000;
+}
+
+#mc_embed_signup {
+  background: #0d0d0d;
 }
 
 button {
@@ -10859,7 +10868,7 @@ video.bg-video {
 
 .logo {
   text-align: center;
-  width: 50vw;
+  width: 80vw;
   min-width: 300px;
   max-width: 500px;
 }
@@ -10897,6 +10906,8 @@ video.bg-video {
   max-width: 40rem;
   padding-top: 5rem;
   padding-bottom: 5rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
 }
 .masthead .masthead-content h1, .masthead .masthead-content .h1 {
   font-size: 2.5rem;
