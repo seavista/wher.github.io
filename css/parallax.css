@@ -1,0 +1,6 @@
+/* Parallax effects using background-attachment */
+.parallax {
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
