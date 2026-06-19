@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.seavista.wher",
+      "sha256_cert_fingerprints": [
+        "FA:CF:4A:CF:B4:5A:BD:A0:F4:EF:5B:B3:87:0A:CF:68:A7:89:A7:38:C2:F6:8E:25:80:B7:F5:B0:55:E9:E9:CE"
+      ]
+    }
+  }
+]
